@@ -160,7 +160,7 @@ html {
 #home .buttons a {
   display: inline-block;
   margin: 15px 30px;
-  color: #48dbfb;
+  color: #008080;
   font-size: 15px;
   font-weight: 500;
   width: 180px;
@@ -172,8 +172,7 @@ html {
 
 #home .buttons a:hover,
 #home .buttons a:nth-child(2) {
-  background-color: #48dbfb;
-  color: #fff;
+  color: #008080;
 }
 
 section {
@@ -229,7 +228,7 @@ section {
 
 .about-text h3 {
   margin: 10px 0;
-  color: #444;
+  color: #008080;
   font-size: 16px;
 }
 
@@ -238,7 +237,7 @@ section {
   content: '';
   width: 6px;
   height: 6px;
-  background-color: #444;
+  background-color: #40e0d0;
   display: inline-block;
   border-radius: 50%;
   margin: 0 14px;
@@ -279,7 +278,7 @@ section {
   content: '';
   position: absolute;
   height: 6px;
-  background-color: #48dbfb;
+  background-color: #008080;
   bottom: 0;
 }
 
@@ -466,7 +465,7 @@ section.dark .section-title::after {
 .contact-info .item {
   width: calc(33% - 20px);
   height: 160px;
-  background-color: #353b48;
+  background-color: #008080;
   color: #fff;
   text-align: center;
   border-radius: 4px;
@@ -482,7 +481,7 @@ section.dark .section-title::after {
 }
 
 .contact-info .item:hover {
-  background-color: #48dbfb;
+  background-color: #7fffd4;
 }
 
 .contact-form {
@@ -496,7 +495,7 @@ section.dark .section-title::after {
   width: 100%;
   height: 50px;
   margin: 10px 0;
-  background-color: #353b48;
+  background-color: #40e0d0;
   border: none;
   outline: none;
   padding: 20px;
@@ -517,9 +516,9 @@ section.dark .section-title::after {
 .contact-form .btn {
   width: 180px;
   background-color: transparent;
-  color: #48dbfb;
+  color: #008080;
   font-size: 16px;
-  border: 2px solid #48dbfb;
+  border: 2px solid #008080;
   padding: 0;
   margin-left: auto;
   cursor: pointer;
@@ -527,7 +526,7 @@ section.dark .section-title::after {
 }
 
 .contact-form .btn:hover {
-  background-color: #48dbfb;
+  background-color: #008080;
   color: #fff;
 }
 
@@ -545,7 +544,7 @@ footer {
 
 .copyright a {
   font-size: 16px;
-  color: #48dbfb;
+  color: #008080;
   font-weight: 500;
 }
 
@@ -556,7 +555,7 @@ footer {
   right: 40px;
   width: 40px;
   height: 40px;
-  background-color: #48dbfb;
+  background-color: #008080;
   border: none;
   border-radius: 6px;
   cursor: pointer;

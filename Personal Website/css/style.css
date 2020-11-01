@@ -170,7 +170,9 @@ html {
   transition: 0.2s linear;
 }
 
-#home .buttons a:hover,
+#home .buttons a:hover {
+  background-color: #40e0d0;
+}
 #home .buttons a:nth-child(2) {
   color: #008080;
 }
